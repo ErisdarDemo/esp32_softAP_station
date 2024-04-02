@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/station/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/softAP_station/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

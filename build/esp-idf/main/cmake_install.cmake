@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/station/main
+# Install script for directory: C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/softAP_station/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
