@@ -3,6 +3,8 @@
 
 # Wi-Fi Station Example
 
+@targ 	ESP32_S COM16
+
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
 This example shows how to use the Wi-Fi Station functionality of the Wi-Fi driver of ESP for connecting to an Access Point.
